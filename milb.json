@@ -1,0 +1,7446 @@
+[{
+    "slug": "toledo",
+    "id": 512,
+    "name": "Toledo Mud Hens",
+    "abbreviation": "TOL",
+    "teamName": "Mud Hens",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "slug": "billings",
+    "id": 513,
+    "name": "Billings Mustangs",
+    "abbreviation": "BIL",
+    "teamName": "Mustangs",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 235,
+        "name": "Pioneer League North"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "modesto",
+    "id": 515,
+    "name": "Modesto Nuts",
+    "abbreviation": "MOD",
+    "teamName": "Nuts",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 208,
+        "name": "California League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "slug": "visalia",
+    "id": 516,
+    "name": "Visalia Rawhide",
+    "abbreviation": "VIS",
+    "teamName": "Rawhide",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 209,
+        "name": "California League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "missoula",
+    "id": 518,
+    "name": "Missoula PaddleHeads",
+    "abbreviation": "MIS",
+    "teamName": "PaddleHeads",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 235,
+        "name": "Pioneer League North"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "puebla",
+    "id": 520,
+    "name": "Pericos de Puebla",
+    "abbreviation": "PUE",
+    "teamName": "Pericos",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "myrtle-beach",
+    "id": 521,
+    "name": "Myrtle Beach Pelicans",
+    "abbreviation": "MB",
+    "teamName": "Pelicans",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "slug": "reading",
+    "id": 522,
+    "name": "Reading Fightin Phils",
+    "abbreviation": "REA",
+    "teamName": "Fightin Phils",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "slug": "campeche",
+    "id": 523,
+    "name": "Piratas de Campeche",
+    "abbreviation": "CAM",
+    "teamName": "Piratas",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "stockton",
+    "id": 524,
+    "name": "Stockton Ports",
+    "abbreviation": "STK",
+    "teamName": "Ports",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 208,
+        "name": "California League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "slug": "west-virginia-power",
+    "id": 525,
+    "name": "Charleston Dirty Birds",
+    "abbreviation": "CWV",
+    "teamName": "Dirty Birds",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5436,
+        "name": "South Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "rancho-cucamonga",
+    "id": 526,
+    "name": "Rancho Cucamonga Quakes",
+    "abbreviation": "RC",
+    "teamName": "Quakes",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 209,
+        "name": "California League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "id": 527,
+    "name": "Salt River Rafters",
+    "abbreviation": "SRR",
+    "teamName": "Rafters",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "aguascalientes",
+    "id": 528,
+    "name": "Rieleros de Aguascalientes",
+    "abbreviation": "AGS",
+    "teamName": "Rieleros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "tacoma",
+    "id": 529,
+    "name": "Tacoma Rainiers",
+    "abbreviation": "TAC",
+    "teamName": "Rainiers",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 231,
+        "name": "Pacific Coast League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "slug": "ogden",
+    "id": 530,
+    "name": "Ogden Raptors",
+    "abbreviation": "OGD",
+    "teamName": "Raptors",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 236,
+        "name": "Pioneer League South"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "scranton-wb",
+    "id": 531,
+    "name": "Scranton/Wilkes-Barre RailRiders",
+    "abbreviation": "SWB",
+    "teamName": "RailRiders",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "slug": "mexico",
+    "id": 532,
+    "name": "Diablos Rojos del Mexico",
+    "abbreviation": "MEX",
+    "teamName": "Diablos Rojos",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "worcester",
+    "id": 533,
+    "name": "Worcester Red Sox",
+    "abbreviation": "WOR",
+    "teamName": "Red Sox",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "slug": "rochester",
+    "id": 534,
+    "name": "Rochester Red Wings",
+    "abbreviation": "ROC",
+    "teamName": "Red Wings",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "slug": "dos-laredos",
+    "id": 536,
+    "name": "Tecos de los Dos Laredos",
+    "abbreviation": "LAR",
+    "teamName": "Tecos",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "hudson-valley",
+    "id": 537,
+    "name": "Hudson Valley Renegades",
+    "abbreviation": "HV",
+    "teamName": "Renegades",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "slug": "hartford",
+    "id": 538,
+    "name": "Hartford Yard Goats",
+    "abbreviation": "HFD",
+    "teamName": "Yard Goats",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "slug": "pensacola",
+    "id": 4124,
+    "name": "Pensacola Blue Wahoos",
+    "abbreviation": "PNS",
+    "teamName": "Blue Wahoos",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 240,
+        "name": "Southern League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "slug": "frisco",
+    "id": 540,
+    "name": "Frisco RoughRiders",
+    "abbreviation": "FRI",
+    "teamName": "RoughRiders",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 242,
+        "name": "Texas League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "slug": "omaha",
+    "id": 541,
+    "name": "Omaha Storm Chasers",
+    "abbreviation": "OMA",
+    "teamName": "Storm Chasers",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 542,
+    "name": "Surprise Saguaros",
+    "abbreviation": "SUR",
+    "teamName": "Saguaros",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 544,
+    "name": "Scottsdale Scorpions",
+    "abbreviation": "SCO",
+    "teamName": "Scorpions",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "portland",
+    "id": 546,
+    "name": "Portland Sea Dogs",
+    "abbreviation": "POR",
+    "teamName": "Sea Dogs",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "slug": "harrisburg",
+    "id": 547,
+    "name": "Harrisburg Senators",
+    "abbreviation": "HBG",
+    "teamName": "Senators",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "slug": "delmarva",
+    "id": 548,
+    "name": "Delmarva Shorebirds",
+    "abbreviation": "DEL",
+    "teamName": "Shorebirds",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "slug": "south-bend",
+    "id": 550,
+    "name": "South Bend Cubs",
+    "abbreviation": "SB",
+    "teamName": "Cubs",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "slug": "rocky-mountain",
+    "id": 551,
+    "name": "Rocky Mountain Vibes",
+    "abbreviation": "RMV",
+    "teamName": "Vibes",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 236,
+        "name": "Pioneer League South"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "syracuse",
+    "id": 552,
+    "name": "Syracuse Mets",
+    "abbreviation": "SYR",
+    "teamName": "Mets",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "slug": "tennessee",
+    "id": 553,
+    "name": "Tennessee Smokies",
+    "abbreviation": "TNS",
+    "teamName": "Smokies",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 239,
+        "name": "Southern League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "slug": "beloit",
+    "id": 554,
+    "name": "Beloit Sky Carp",
+    "abbreviation": "BEL",
+    "teamName": "Sky Carp",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "id": 555,
+    "name": "Mesa Solar Sox",
+    "abbreviation": "MSS",
+    "teamName": "Solar Sox",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "nashville",
+    "id": 556,
+    "name": "Nashville Sounds",
+    "abbreviation": "NAS",
+    "teamName": "Sounds",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "slug": "lowell",
+    "id": 558,
+    "name": "Lowell Spinners",
+    "abbreviation": "LOW",
+    "teamName": "Spinners",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 230,
+        "name": "New York-Penn League Stedler"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "slug": "rocket-city",
+    "id": 559,
+    "name": "Rocket City Trash Pandas",
+    "abbreviation": "RCT",
+    "teamName": "Trash Pandas",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 239,
+        "name": "Southern League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "slug": "norte",
+    "id": 560,
+    "name": "Acereros del Norte",
+    "abbreviation": "MVA",
+    "teamName": "Acereros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "salt-lake",
+    "id": 561,
+    "name": "Salt Lake Bees",
+    "abbreviation": "SL",
+    "teamName": "Bees",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 231,
+        "name": "Pacific Coast League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "slug": "monterrey",
+    "id": 562,
+    "name": "Sultanes de Monterrey",
+    "abbreviation": "MTY",
+    "teamName": "Sultanes",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "jacksonville",
+    "id": 564,
+    "name": "Jacksonville Jumbo Shrimp",
+    "abbreviation": "JAX",
+    "teamName": "Jumbo Shrimp",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "slug": "quad-cities",
+    "id": 565,
+    "name": "Quad Cities River Bandits",
+    "abbreviation": "QC",
+    "teamName": "River Bandits",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 2101,
+    "name": "DSL Brewers 2",
+    "abbreviation": "D-BW2",
+    "teamName": "DSL Brewers 2",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "slug": "clearwater",
+    "id": 566,
+    "name": "Clearwater Threshers",
+    "abbreviation": "CLR",
+    "teamName": "Threshers",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "slug": "norfolk",
+    "id": 568,
+    "name": "Norfolk Tides",
+    "abbreviation": "NOR",
+    "teamName": "Tides",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "slug": "quintana-roo",
+    "id": 569,
+    "name": "Tigres de Quintana Roo",
+    "abbreviation": "TIG",
+    "teamName": "Tigres",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "lakeland",
+    "id": 570,
+    "name": "Lakeland Flying Tigers",
+    "abbreviation": "LAK",
+    "teamName": "Flying Tigers",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "id": 3130,
+    "name": "DSL Orioles Orange",
+    "abbreviation": "D-ORO",
+    "teamName": "DSL Orioles Orange",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "slug": "norwich",
+    "id": 571,
+    "name": "Norwich Sea Unicorns",
+    "abbreviation": "NOR",
+    "teamName": "Sea Unicorns",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 230,
+        "name": "New York-Penn League Stedler"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "slug": "wisconsin",
+    "id": 572,
+    "name": "Wisconsin Timber Rattlers",
+    "abbreviation": "WIS",
+    "teamName": "Timber Rattlers",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "slug": "asheville",
+    "id": 573,
+    "name": "Asheville Tourists",
+    "abbreviation": "ASH",
+    "teamName": "Tourists",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "slug": "arkansas",
+    "id": 574,
+    "name": "Arkansas Travelers",
+    "abbreviation": "ARK",
+    "teamName": "Travelers",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 241,
+        "name": "Texas League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "id": 575,
+    "name": "Dorados de Chihuahua",
+    "abbreviation": "CHI",
+    "teamName": "Dorados",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "tri-city-valleycats",
+    "id": 577,
+    "name": "Tri-City ValleyCats",
+    "abbreviation": "TRI",
+    "teamName": "ValleyCats",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 230,
+        "name": "New York-Penn League Stedler"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "slug": "oaxaca",
+    "id": 579,
+    "name": "Guerreros de Oaxaca",
+    "abbreviation": "OAX",
+    "teamName": "Guerreros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "winston-salem",
+    "id": 580,
+    "name": "Winston-Salem Dash",
+    "abbreviation": "WS",
+    "teamName": "Dash",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "slug": "great-falls",
+    "id": 581,
+    "name": "Great Falls Voyagers",
+    "abbreviation": "GTF",
+    "teamName": "Voyagers",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 235,
+        "name": "Pioneer League North"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 2117,
+    "name": "DSL Mets Orange",
+    "abbreviation": "D-MEO",
+    "teamName": "DSL Mets Orange",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "slug": "west-michigan",
+    "id": 582,
+    "name": "West Michigan Whitecaps",
+    "abbreviation": "WM",
+    "teamName": "Whitecaps",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "slug": "fort-wayne",
+    "id": 584,
+    "name": "Fort Wayne TinCaps",
+    "abbreviation": "FW",
+    "teamName": "TinCaps",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "slug": "staten-island",
+    "id": 586,
+    "name": "Staten Island Ferry Hawks",
+    "abbreviation": "SI",
+    "teamName": "Ferry Hawks",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5437,
+        "name": "North Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 2122,
+    "name": "DSL Padres Gold",
+    "abbreviation": "D-PAG",
+    "teamName": "DSL Padres Gold",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "slug": "tampa",
+    "id": 587,
+    "name": "Tampa Tarpons",
+    "abbreviation": "TAM",
+    "teamName": "Tarpons",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "id": 1611,
+    "name": "DSL Rays",
+    "abbreviation": "D-RAY",
+    "teamName": "DSL Rays",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "id": 2127,
+    "name": "DSL Miami",
+    "abbreviation": "D-MIA",
+    "teamName": "DSL Miami",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "id": 2128,
+    "name": "DSL Royals Fortuna",
+    "abbreviation": "D-ROF",
+    "teamName": "DSL Royals Fortuna",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 2131,
+    "name": "DSL Colorado",
+    "abbreviation": "D-COL",
+    "teamName": "DSL Colorado",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "id": 2132,
+    "name": "DSL Tigers 2",
+    "abbreviation": "D-TI2",
+    "teamName": "DSL Tigers 2",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "id": 2134,
+    "name": "DSL Giants Black",
+    "abbreviation": "D-GIB",
+    "teamName": "DSL Giants Black",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "id": 599,
+    "name": "FCL Orioles",
+    "abbreviation": "F-ORI",
+    "teamName": "FCL Orioles",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "id": 6232,
+    "name": "New England Knockouts",
+    "abbreviation": "NE",
+    "teamName": "Knockouts",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 600,
+    "name": "DSL Angels",
+    "abbreviation": "D-ANG",
+    "teamName": "DSL Angels",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "id": 601,
+    "name": "DSL Astros Blue",
+    "abbreviation": "D-ASB",
+    "teamName": "DSL Astros Blue",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "id": 602,
+    "name": "DSL Athletics",
+    "abbreviation": "D-ATH",
+    "teamName": "DSL Athletics",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "id": 604,
+    "name": "DSL Blue Jays",
+    "abbreviation": "D-BLJ",
+    "teamName": "DSL Blue Jays",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "id": 605,
+    "name": "DSL Braves",
+    "abbreviation": "D-BRV",
+    "teamName": "DSL Braves",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "id": 607,
+    "name": "DSL Brewers 1",
+    "abbreviation": "D-BW1",
+    "teamName": "DSL Brewers 1",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "id": 608,
+    "name": "DSL Cardinals",
+    "abbreviation": "D-CAR",
+    "teamName": "DSL Cardinals",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "id": 609,
+    "name": "DSL Cubs Blue",
+    "abbreviation": "D-CUB",
+    "teamName": "DSL Cubs Blue",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "id": 610,
+    "name": "DSL Arizona Black",
+    "abbreviation": "D-ARB",
+    "teamName": "DSL Arizona Black",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "id": 611,
+    "name": "DSL LAD Bautista",
+    "abbreviation": "D-LAB",
+    "teamName": "DSL LAD Bautista",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "id": 612,
+    "name": "DSL LAD Mega",
+    "abbreviation": "D-LAM",
+    "teamName": "DSL LAD Mega",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "slug": "round-rock",
+    "id": 102,
+    "name": "Round Rock Express",
+    "abbreviation": "RR",
+    "teamName": "Express",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 233,
+        "name": "Pacific Coast League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "slug": "lake-elsinore",
+    "id": 103,
+    "name": "Lake Elsinore Storm",
+    "abbreviation": "LE",
+    "teamName": "Storm",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 209,
+        "name": "California League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "id": 615,
+    "name": "DSL Giants Orange",
+    "abbreviation": "D-GIO",
+    "teamName": "DSL Giants Orange",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "id": 616,
+    "name": "DSL CLE Mendoza",
+    "abbreviation": "D-CLM",
+    "teamName": "DSL CLE Mendoza",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "slug": "sacramento",
+    "id": 105,
+    "name": "Sacramento River Cats",
+    "abbreviation": "SAC",
+    "teamName": "River Cats",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 231,
+        "name": "Pacific Coast League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "slug": "erie",
+    "id": 106,
+    "name": "Erie SeaWolves",
+    "abbreviation": "ERI",
+    "teamName": "SeaWolves",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "id": 618,
+    "name": "DSL Mariners",
+    "abbreviation": "D-MRN",
+    "teamName": "DSL Mariners",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "id": 619,
+    "name": "DSL Marlins",
+    "abbreviation": "D-MRL",
+    "teamName": "DSL Marlins",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "id": 620,
+    "name": "DSL Mets Blue",
+    "abbreviation": "D-MEB",
+    "teamName": "DSL Mets Blue",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "id": 621,
+    "name": "DSL Orioles Black",
+    "abbreviation": "D-ORB",
+    "teamName": "DSL Orioles Black",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "id": 622,
+    "name": "DSL Padres Brown",
+    "abbreviation": "D-PAB",
+    "teamName": "DSL Padres Brown",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "id": 623,
+    "name": "DSL Phillies Red",
+    "abbreviation": "D-PHR",
+    "teamName": "DSL Phillies Red",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "id": 624,
+    "name": "DSL Pirates Black",
+    "abbreviation": "D-PIB",
+    "teamName": "DSL Pirates Black",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 625,
+    "name": "DSL Rangers Blue",
+    "abbreviation": "D-RNB",
+    "teamName": "DSL Rangers Blue",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "id": 626,
+    "name": "DSL Red Sox Blue",
+    "abbreviation": "D-RSB",
+    "teamName": "DSL Red Sox Blue",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "id": 627,
+    "name": "DSL Red Sox Red",
+    "abbreviation": "D-RSR",
+    "teamName": "DSL Red Sox Red",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "id": 628,
+    "name": "DSL Reds",
+    "abbreviation": "D-RED",
+    "teamName": "DSL Reds",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "id": 629,
+    "name": "DSL Rockies",
+    "abbreviation": "D-RCK",
+    "teamName": "DSL Rockies",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "id": 630,
+    "name": "DSL Royals Ventura",
+    "abbreviation": "D-ROV",
+    "teamName": "DSL Royals Ventura",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 250,
+        "name": "Dominican Summer League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 631,
+    "name": "DSL Tigers 1",
+    "abbreviation": "D-TI1",
+    "teamName": "DSL Tigers 1",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "id": 632,
+    "name": "DSL Twins",
+    "abbreviation": "D-TWI",
+    "teamName": "DSL Twins",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "slug": "columbia",
+    "id": 3705,
+    "name": "Columbia Fireflies",
+    "abbreviation": "COL",
+    "teamName": "Fireflies",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 633,
+    "name": "DSL White Sox",
+    "abbreviation": "D-WSX",
+    "teamName": "DSL White Sox",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "id": 634,
+    "name": "DSL NYY Bombers",
+    "abbreviation": "D-NYB",
+    "teamName": "DSL NYY Bombers",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 401,
+        "name": "Dominican Summer League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "id": 635,
+    "name": "DSL NYY Yankees",
+    "abbreviation": "D-NYY",
+    "teamName": "DSL NYY Yankees",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "slug": "fayetteville",
+    "id": 3712,
+    "name": "Fayetteville Woodpeckers",
+    "abbreviation": "FAY",
+    "teamName": "Woodpeckers",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "id": 667,
+    "name": "Aguilas Cibaenas",
+    "abbreviation": "AGU",
+    "teamName": "Aguilas",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 668,
+    "name": "Toros del Este",
+    "abbreviation": "TOR",
+    "teamName": "Toros",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 669,
+    "name": "Estrellas Orientales",
+    "abbreviation": "EST",
+    "teamName": "Estrellas",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 670,
+    "name": "Gigantes del Cibao",
+    "abbreviation": "GIG",
+    "teamName": "Gigantes",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 6303,
+    "name": "Conspiradores de Queretaro",
+    "abbreviation": "QRO",
+    "teamName": "Conspiradores",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 671,
+    "name": "Leones del Escogido",
+    "abbreviation": "ESC",
+    "teamName": "Leones",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 6304,
+    "name": "Charros de Jalisco",
+    "abbreviation": "JAL",
+    "teamName": "Charros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 672,
+    "name": "Tigres del Licey",
+    "abbreviation": "LIC",
+    "teamName": "Tigres",
+    "league": {
+        "id": 131,
+        "name": "Liga de Beisbol Dominicano"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 673,
+    "name": "Aguilas de Mexicali",
+    "abbreviation": "MXC",
+    "teamName": "Mexicali",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 674,
+    "name": "Charros de Jalisco",
+    "abbreviation": "JAL",
+    "teamName": "Jalisco",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 675,
+    "name": "Caneros de los Mochis",
+    "abbreviation": "MOC",
+    "teamName": "Los Mochis",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 676,
+    "name": "Mayos de Navojoa",
+    "abbreviation": "NAV",
+    "teamName": "Navojoa",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 677,
+    "name": "Naranjeros de Hermosillo",
+    "abbreviation": "HER",
+    "teamName": "Hermosillo",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 678,
+    "name": "Tomateros de Culiacan",
+    "abbreviation": "CUL",
+    "teamName": "Culiacan",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1191,
+    "name": "Dominican Republic",
+    "abbreviation": "DR",
+    "teamName": "Dom. Rep.",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 679,
+    "name": "Venados de Mazatlan",
+    "abbreviation": "MAZ",
+    "teamName": "Mazatlan",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1192,
+    "name": "Mexico",
+    "abbreviation": "MEX",
+    "teamName": "Mexico",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 680,
+    "name": "Yaquis de Obregon",
+    "abbreviation": "OBR",
+    "teamName": "Obregon",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1193,
+    "name": "Venezuela",
+    "abbreviation": "VEN",
+    "teamName": "Venezuela",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 685,
+    "name": "Cangrejeros de Santurce",
+    "abbreviation": "SAN",
+    "teamName": "Santurce",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 686,
+    "name": "Criollos de Caguas",
+    "abbreviation": "CAG",
+    "teamName": "Caguas",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 687,
+    "name": "Gigantes de Carolina",
+    "abbreviation": "CAR",
+    "teamName": "Carolina",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 688,
+    "name": "Indios de Mayaguez",
+    "abbreviation": "MAY",
+    "teamName": "Mayaguez",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 689,
+    "name": "Leones de Ponce",
+    "abbreviation": "PON",
+    "teamName": "Ponce",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 690,
+    "name": "Puerto Rico",
+    "abbreviation": "PUR",
+    "teamName": "Puerto Rico",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 692,
+    "name": "Aguilas del Zulia",
+    "abbreviation": "ZUL",
+    "teamName": "Aguilas",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 693,
+    "name": "Cardenales de Lara",
+    "abbreviation": "LAR",
+    "teamName": "Cardenales",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 694,
+    "name": "Caribes de Anzoategui",
+    "abbreviation": "ORI",
+    "teamName": "Caribes",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 695,
+    "name": "Leones del Caracas",
+    "abbreviation": "CAR",
+    "teamName": "Leones",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 696,
+    "name": "Navegantes del Magallanes",
+    "abbreviation": "MAG",
+    "teamName": "Navegantes",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 697,
+    "name": "Bravos de Margarita",
+    "abbreviation": "MAR",
+    "teamName": "Bravos",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 698,
+    "name": "Tiburones de La Guaira",
+    "abbreviation": "LAG",
+    "teamName": "Tiburones",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 699,
+    "name": "Tigres de Aragua",
+    "abbreviation": "ARA",
+    "teamName": "Tigres",
+    "league": {
+        "id": 135,
+        "name": "Liga Venezuela Beisbol Profesional"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 2270,
+    "name": "DSL Cubs Red",
+    "abbreviation": "D-CUR",
+    "teamName": "DSL Cubs Red",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "slug": "charleston",
+    "id": 233,
+    "name": "Charleston RiverDogs",
+    "abbreviation": "CHS",
+    "teamName": "RiverDogs",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "slug": "durham",
+    "id": 234,
+    "name": "Durham Bulls",
+    "abbreviation": "DUR",
+    "teamName": "Bulls",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "slug": "memphis",
+    "id": 235,
+    "name": "Memphis Redbirds",
+    "abbreviation": "MEM",
+    "teamName": "Redbirds",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "slug": "midland",
+    "id": 237,
+    "name": "Midland RockHounds",
+    "abbreviation": "MID",
+    "teamName": "RockHounds",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 242,
+        "name": "Texas League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "slug": "oklahoma-city",
+    "id": 238,
+    "name": "Oklahoma City Baseball Club",
+    "abbreviation": "OKC",
+    "teamName": "Baseball Club",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 233,
+        "name": "Pacific Coast League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "id": 1270,
+    "name": "DSL Nationals",
+    "abbreviation": "D-NAT",
+    "teamName": "DSL Nationals",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "slug": "birmingham",
+    "id": 247,
+    "name": "Birmingham Barons",
+    "abbreviation": "BIR",
+    "teamName": "Barons",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 239,
+        "name": "Southern League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "slug": "amarillo",
+    "id": 5368,
+    "name": "Amarillo Sod Poodles",
+    "abbreviation": "AMA",
+    "teamName": "Sod Poodles",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 242,
+        "name": "Texas League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "carolina-mudcats",
+    "id": 249,
+    "name": "Carolina Mudcats",
+    "abbreviation": "CAR",
+    "teamName": "Mudcats",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "id": 5374,
+    "name": "ACL Guardians",
+    "abbreviation": "A-GUA",
+    "teamName": "ACL Guardians",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 570,
+        "name": "Arizona Complex League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "slug": "fresno",
+    "id": 259,
+    "name": "Fresno Grizzlies",
+    "abbreviation": "FRE",
+    "teamName": "Grizzlies",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 208,
+        "name": "California League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "slug": "tulsa",
+    "id": 260,
+    "name": "Tulsa Drillers",
+    "abbreviation": "TUL",
+    "teamName": "Drillers",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 241,
+        "name": "Texas League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "slug": "reno",
+    "id": 2310,
+    "name": "Reno Aces",
+    "abbreviation": "RNO",
+    "teamName": "Aces",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 231,
+        "name": "Pacific Coast League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "grand-junction",
+    "id": 4364,
+    "name": "Grand Junction Rockies",
+    "abbreviation": "GJ",
+    "teamName": "Rockies",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 236,
+        "name": "Pioneer League South"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "palm-beach",
+    "id": 279,
+    "name": "Palm Beach Cardinals",
+    "abbreviation": "PMB",
+    "teamName": "Cardinals",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 214,
+        "name": "Florida State League East"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "slug": "el-paso",
+    "id": 4904,
+    "name": "El Paso Chihuahuas",
+    "abbreviation": "ELP",
+    "teamName": "Chihuahuas",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 233,
+        "name": "Pacific Coast League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "id": 5426,
+    "name": "ACL Athletics",
+    "abbreviation": "A-ATH",
+    "teamName": "ACL Athletics",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 560,
+        "name": "Arizona Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "id": 5427,
+    "name": "ACL Dodgers",
+    "abbreviation": "A-DOD",
+    "teamName": "ACL Dodgers",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 570,
+        "name": "Arizona Complex League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "slug": "pawtucket",
+    "id": 5428,
+    "name": "Pawtucket Red Sox",
+    "abbreviation": "PAW",
+    "teamName": "Pawtucket",
+    "league": {},
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 4404,
+    "name": "DSL Pirates Gold",
+    "abbreviation": "D-PIG",
+    "teamName": "DSL Pirates Gold",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 5431,
+    "name": "High Point Rockers",
+    "abbreviation": "HP",
+    "teamName": "Rockers",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5436,
+        "name": "South Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 5433,
+    "name": "Southern Maryland Blue Crabs",
+    "abbreviation": "SMD",
+    "teamName": "Blue Crabs",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5436,
+        "name": "South Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "wichita",
+    "id": 3898,
+    "name": "Wichita Wind Surge",
+    "abbreviation": "WCH",
+    "teamName": "Wind Surge",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 241,
+        "name": "Texas League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "slug": "sugar-land",
+    "id": 5434,
+    "name": "Sugar Land Space Cowboys",
+    "abbreviation": "SUG",
+    "teamName": "Space Cowboys",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 233,
+        "name": "Pacific Coast League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "id": 5435,
+    "name": "York Revolution",
+    "abbreviation": "YOR",
+    "teamName": "Revolution",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5437,
+        "name": "North Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "bradenton",
+    "id": 3390,
+    "name": "Bradenton Marauders",
+    "abbreviation": "BRD",
+    "teamName": "Marauders",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 5440,
+    "name": "Panama",
+    "abbreviation": "PAN",
+    "teamName": "Panama",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1858,
+    "name": "Windy City ThunderBolts",
+    "abbreviation": "WC",
+    "teamName": "ThunderBolts",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "northwest-arkansas",
+    "id": 1350,
+    "name": "Northwest Arkansas Naturals",
+    "abbreviation": "NWA",
+    "teamName": "Naturals",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 241,
+        "name": "Texas League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 1868,
+    "name": "Evansville Otters",
+    "abbreviation": "EVA",
+    "teamName": "Otters",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 1869,
+    "name": "Fargo-Moorehead Redhawks",
+    "abbreviation": "FAR",
+    "teamName": "Redhawks",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 1871,
+    "name": "Florence Freedom",
+    "abbreviation": "FLO",
+    "teamName": "Freedom",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "richmond",
+    "id": 3410,
+    "name": "Richmond Flying Squirrels",
+    "abbreviation": "RIC",
+    "teamName": "Flying Squirrels",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "id": 1874,
+    "name": "Gary RailCats",
+    "abbreviation": "GAR",
+    "teamName": "RailCats",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 1875,
+    "name": "Gateway Grizzlies",
+    "abbreviation": "GAT",
+    "teamName": "Grizzlies",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "albuquerque",
+    "id": 342,
+    "name": "Albuquerque Isotopes",
+    "abbreviation": "ABQ",
+    "teamName": "Isotopes",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 233,
+        "name": "Pacific Coast League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "id": 1370,
+    "name": "FCL Cardinals",
+    "abbreviation": "F-CAR",
+    "teamName": "FCL Cardinals",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 216,
+        "name": "Florida Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "id": 1883,
+    "name": "Joliet JackHammers",
+    "abbreviation": "JOL",
+    "teamName": "JackHammers",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "durango",
+    "id": 4444,
+    "name": "Caliente de Durango",
+    "abbreviation": "DUR",
+    "teamName": "Caliente",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1885,
+    "name": "Kansas City T-Bones",
+    "abbreviation": "KC",
+    "teamName": "T-Bones",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 1889,
+    "name": "Lancaster Stormers",
+    "abbreviation": "LAN",
+    "teamName": "Stormers",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5437,
+        "name": "North Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1892,
+    "name": "Lincoln Saltdogs",
+    "abbreviation": "LIN",
+    "teamName": "Saltdogs",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 3430,
+    "name": "ACL Reds",
+    "abbreviation": "A-RED",
+    "teamName": "ACL Reds",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 570,
+        "name": "Arizona Complex League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "id": 1896,
+    "name": "Long Island Ducks",
+    "abbreviation": "LI",
+    "teamName": "Ducks",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5437,
+        "name": "North Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 5482,
+    "name": "Algodoneros de Guasave",
+    "abbreviation": "GSV",
+    "teamName": "Guasave",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 5483,
+    "name": "Sultanes de Monterrey",
+    "abbreviation": "MTY",
+    "teamName": "Sultanes",
+    "league": {
+        "id": 132,
+        "name": "Liga Mexicana del Pacifico"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 2412,
+    "name": "DSL Rojos",
+    "abbreviation": "D-ROJ",
+    "teamName": "DSL Rojos",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 249,
+        "name": "Dominican Summer League Northwest"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "id": 2413,
+    "name": "DSL Rangers Red",
+    "abbreviation": "D-RNR",
+    "teamName": "DSL Rangers Red",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "id": 1390,
+    "name": "FCL Blue Jays",
+    "abbreviation": "F-BLU",
+    "teamName": "FCL Blue Jays",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 217,
+        "name": "Florida Complex League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "id": 5492,
+    "name": "Colombia",
+    "abbreviation": "COL",
+    "teamName": "Colombia",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1916,
+    "name": "New Jersey Jackals",
+    "abbreviation": "NJ",
+    "teamName": "Jackals",
+    "league": {
+        "id": 439,
+        "name": "Canadian-American Association"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "lehigh-valley",
+    "id": 1410,
+    "name": "Lehigh Valley IronPigs",
+    "abbreviation": "LHV",
+    "teamName": "IronPigs",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "id": 5506,
+    "name": "DSL CLE Goryl",
+    "abbreviation": "D-CLG",
+    "teamName": "DSL CLE Goryl",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "id": 5508,
+    "name": "Gastonia Honey Hunters",
+    "abbreviation": "GAS",
+    "teamName": "Honey Hunters",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5436,
+        "name": "South Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 5000,
+    "name": "Cuba",
+    "abbreviation": "CUB",
+    "teamName": "Cuba",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1932,
+    "name": "Quebec Capitales",
+    "abbreviation": "QUE",
+    "teamName": "Capitales",
+    "league": {
+        "id": 439,
+        "name": "Canadian-American Association"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 5005,
+    "name": "DSL Astros Orange",
+    "abbreviation": "D-ASO",
+    "teamName": "DSL Astros Orange",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "slug": "las-vegas",
+    "id": 400,
+    "name": "Las Vegas Aviators",
+    "abbreviation": "LV",
+    "teamName": "Aviators",
+    "league": {
+        "id": 112,
+        "name": "Pacific Coast League"
+    },
+    "division": {
+        "id": 231,
+        "name": "Pacific Coast League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "slug": "inland-empire",
+    "id": 401,
+    "name": "Inland Empire 66ers",
+    "abbreviation": "IE",
+    "teamName": "66ers",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 209,
+        "name": "California League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "slug": "akron",
+    "id": 402,
+    "name": "Akron RubberDucks",
+    "abbreviation": "AKR",
+    "teamName": "RubberDucks",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "slug": "tijuana",
+    "id": 5010,
+    "name": "Toros de Tijuana",
+    "abbreviation": "TIJ",
+    "teamName": "Toros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "everett",
+    "id": 403,
+    "name": "Everett AquaSox",
+    "abbreviation": "EVE",
+    "teamName": "AquaSox",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "id": 404,
+    "name": "ACL Angels",
+    "abbreviation": "A-ANG",
+    "teamName": "ACL Angels",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 570,
+        "name": "Arizona Complex League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "id": 406,
+    "name": "ACL Brewers",
+    "abbreviation": "A-BRW",
+    "teamName": "ACL Brewers",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 570,
+        "name": "Arizona Complex League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "slug": "biloxi",
+    "id": 5015,
+    "name": "Biloxi Shuckers",
+    "abbreviation": "BLX",
+    "teamName": "Shuckers",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 240,
+        "name": "Southern League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Milwaukee Brewers",
+    "parentOrgId": 158,
+    "active": true
+},
+{
+    "id": 407,
+    "name": "ACL Cubs",
+    "abbreviation": "A-CUB",
+    "teamName": "ACL Cubs",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 560,
+        "name": "Arizona Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "id": 408,
+    "name": "ACL Giants",
+    "abbreviation": "A-GIA",
+    "teamName": "ACL Giants",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 560,
+        "name": "Arizona Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "id": 409,
+    "name": "ACL Mariners",
+    "abbreviation": "A-MRN",
+    "teamName": "ACL Mariners",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 561,
+        "name": "Arizona Complex League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Seattle Mariners",
+    "parentOrgId": 136,
+    "active": true
+},
+{
+    "id": 410,
+    "name": "ACL Padres",
+    "abbreviation": "A-PAD",
+    "teamName": "ACL Padres",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 561,
+        "name": "Arizona Complex League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "id": 411,
+    "name": "ACL Rangers",
+    "abbreviation": "A-RAN",
+    "teamName": "ACL Rangers",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 561,
+        "name": "Arizona Complex League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "id": 412,
+    "name": "ACL Royals",
+    "abbreviation": "A-ROY",
+    "teamName": "ACL Royals",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 561,
+        "name": "Arizona Complex League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Kansas City Royals",
+    "parentOrgId": 118,
+    "active": true
+},
+{
+    "id": 6045,
+    "name": "Curacao",
+    "abbreviation": "CW",
+    "teamName": "Curacao",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "salem",
+    "id": 414,
+    "name": "Salem Red Sox",
+    "abbreviation": "SAL",
+    "teamName": "Red Sox",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "id": 1950,
+    "name": "Schaumburg Flyers",
+    "abbreviation": "SCH",
+    "teamName": "Flyers",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "louisville",
+    "id": 416,
+    "name": "Louisville Bats",
+    "abbreviation": "LOU",
+    "teamName": "Bats",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "id": 1953,
+    "name": "Sioux City Explorers",
+    "abbreviation": "SIC",
+    "teamName": "Explorers",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "bowie",
+    "id": 418,
+    "name": "Bowie Baysox",
+    "abbreviation": "BOW",
+    "teamName": "Baysox",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "id": 1954,
+    "name": "Sioux Falls Canaries",
+    "abbreviation": "SIF",
+    "teamName": "Canaries",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "hillsboro",
+    "id": 419,
+    "name": "Hillsboro Hops",
+    "abbreviation": "HIL",
+    "teamName": "Hops",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "somerset",
+    "id": 1956,
+    "name": "Somerset Patriots",
+    "abbreviation": "SOM",
+    "teamName": "Patriots",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "id": 5540,
+    "name": "RA12",
+    "abbreviation": "RA12",
+    "teamName": "RA12",
+    "league": {
+        "id": 133,
+        "name": "Liga de Beisbol Profesional Roberto Clemente"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "montgomery",
+    "id": 421,
+    "name": "Montgomery Biscuits",
+    "abbreviation": "MTG",
+    "teamName": "Biscuits",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 240,
+        "name": "Southern League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "slug": "buffalo",
+    "id": 422,
+    "name": "Buffalo Bisons",
+    "abbreviation": "BUF",
+    "teamName": "Bisons",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "id": 5542,
+    "name": "Southern Illinois Miners",
+    "abbreviation": "SI",
+    "teamName": "Miners",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 5543,
+    "name": "Texas Airhogs",
+    "abbreviation": "TEX",
+    "teamName": "Airhogs",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "dunedin",
+    "id": 424,
+    "name": "Dunedin Blue Jays",
+    "abbreviation": "DUN",
+    "teamName": "Blue Jays",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "slug": "st-paul",
+    "id": 1960,
+    "name": "St. Paul Saints",
+    "abbreviation": "STP",
+    "teamName": "Saints",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "id": 5544,
+    "name": "Cleburne Railroaders",
+    "abbreviation": "CLE",
+    "teamName": "Railroaders",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 5545,
+    "name": "Rockland Boulders",
+    "abbreviation": "ROC",
+    "teamName": "Boulders",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "wilmington",
+    "id": 426,
+    "name": "Wilmington Blue Rocks",
+    "abbreviation": "WIL",
+    "teamName": "Blue Rocks",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "id": 5546,
+    "name": "Lake Erie Crushers",
+    "abbreviation": "LE",
+    "teamName": "Crushers",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "jersey-shore",
+    "id": 427,
+    "name": "Jersey Shore BlueClaws",
+    "abbreviation": "JS",
+    "teamName": "BlueClaws",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "id": 5547,
+    "name": "Chicago Dogs",
+    "abbreviation": "CHI",
+    "teamName": "Dogs",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "greenville",
+    "id": 428,
+    "name": "Greenville Drive",
+    "abbreviation": "GVL",
+    "teamName": "Drive",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "id": 5548,
+    "name": "Milwaukee Milkmen",
+    "abbreviation": "MIL",
+    "teamName": "Milkmen",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 1964,
+    "name": "Sussex Skyhawks",
+    "abbreviation": "SUS",
+    "teamName": "Skyhawks",
+    "league": {
+        "id": 439,
+        "name": "Canadian-American Association"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "mississippi",
+    "id": 430,
+    "name": "Mississippi Braves",
+    "abbreviation": "MIS",
+    "teamName": "Braves",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 240,
+        "name": "Southern League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "slug": "gwinnett",
+    "id": 431,
+    "name": "Gwinnett Stripers",
+    "abbreviation": "GWN",
+    "teamName": "Stripers",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "slug": "rome",
+    "id": 432,
+    "name": "Rome Emperors",
+    "abbreviation": "ROM",
+    "teamName": "Emperors",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "slug": "leon",
+    "id": 434,
+    "name": "Bravos de Leon",
+    "abbreviation": "LEO",
+    "teamName": "Bravos",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "vancouver",
+    "id": 435,
+    "name": "Vancouver Canadians",
+    "abbreviation": "VAN",
+    "teamName": "Canadians",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "id": 1971,
+    "name": "Trois-Rivieres Saints",
+    "abbreviation": "TRO",
+    "teamName": "Saints",
+    "league": {
+        "id": 440,
+        "name": "Canadian Baseball League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "fredericksburg",
+    "id": 436,
+    "name": "Fredericksburg Nationals",
+    "abbreviation": "FBG",
+    "teamName": "Nationals",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "id": 6068,
+    "name": "Empire State Greys",
+    "abbreviation": "EMP",
+    "teamName": "Greys",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "lake-county",
+    "id": 437,
+    "name": "Lake County Captains",
+    "abbreviation": "LC",
+    "teamName": "Captains",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "slug": "springfield",
+    "id": 440,
+    "name": "Springfield Cardinals",
+    "abbreviation": "SPR",
+    "teamName": "Cardinals",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 241,
+        "name": "Texas League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "id": 1978,
+    "name": "Washington Wild Things",
+    "abbreviation": "WAS",
+    "teamName": "Wild Things",
+    "league": {
+        "id": 442,
+        "name": "Frontier League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "slug": "tabasco",
+    "id": 442,
+    "name": "Olmecas de Tabasco",
+    "abbreviation": "TAB",
+    "teamName": "Olmecas",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "peoria",
+    "id": 443,
+    "name": "Peoria Chiefs",
+    "abbreviation": "PEO",
+    "teamName": "Chiefs",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "St. Louis Cardinals",
+    "parentOrgId": 138,
+    "active": true
+},
+{
+    "slug": "idaho-falls",
+    "id": 444,
+    "name": "Idaho Falls Chukars",
+    "abbreviation": "IDF",
+    "teamName": "Chukars",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 235,
+        "name": "Pioneer League North"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "columbus",
+    "id": 445,
+    "name": "Columbus Clippers",
+    "abbreviation": "COL",
+    "teamName": "Clippers",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "id": 1982,
+    "name": "Winnipeg Goldeyes",
+    "abbreviation": "WPG",
+    "teamName": "Goldeyes",
+    "league": {
+        "id": 450,
+        "name": "Northern League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "active": true
+},
+{
+    "id": 5567,
+    "name": "El Aguila de Veracruz",
+    "abbreviation": "VER",
+    "teamName": "El Aguila",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "union-laguna",
+    "id": 447,
+    "name": "Algodoneros Union Laguna",
+    "abbreviation": "LAG",
+    "teamName": "Algodoneros",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 6079,
+    "name": "Nicaragua",
+    "abbreviation": "NCA",
+    "teamName": "Nicaragua",
+    "league": {
+        "id": 162,
+        "name": "Caribbean Series"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "hickory",
+    "id": 448,
+    "name": "Hickory Crawdads",
+    "abbreviation": "HIC",
+    "teamName": "Crawdads",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "id": 5568,
+    "name": "Northern Colorado Owlz",
+    "abbreviation": "NCO",
+    "teamName": "Owlz",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 236,
+        "name": "Pioneer League South"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "daytona",
+    "id": 450,
+    "name": "Daytona Tortugas",
+    "abbreviation": "DBT",
+    "teamName": "Tortugas",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 214,
+        "name": "Florida State League East"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "slug": "bowling-green",
+    "id": 2498,
+    "name": "Bowling Green Hot Rods",
+    "abbreviation": "BG",
+    "teamName": "Hot Rods",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 238,
+        "name": "South Atlantic League South"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "slug": "iowa",
+    "id": 451,
+    "name": "Iowa Cubs",
+    "abbreviation": "IOW",
+    "teamName": "Cubs",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago Cubs",
+    "parentOrgId": 112,
+    "active": true
+},
+{
+    "slug": "altoona",
+    "id": 452,
+    "name": "Altoona Curve",
+    "abbreviation": "ALT",
+    "teamName": "Curve",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 213,
+        "name": "Eastern League Southwest"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "slug": "brooklyn",
+    "id": 453,
+    "name": "Brooklyn Cyclones",
+    "abbreviation": "BRK",
+    "teamName": "Cyclones",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "id": 454,
+    "name": "Glendale Desert Dogs",
+    "abbreviation": "GDD",
+    "teamName": "Desert Dogs",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1991,
+    "name": "ACL D-backs",
+    "abbreviation": "A-DBA",
+    "teamName": "ACL D-backs",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 560,
+        "name": "Arizona Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "great-lakes",
+    "id": 456,
+    "name": "Great Lakes Loons",
+    "abbreviation": "GL",
+    "teamName": "Loons",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Dodgers",
+    "parentOrgId": 119,
+    "active": true
+},
+{
+    "id": 6089,
+    "name": "Hagerstown Flying Boxcars",
+    "abbreviation": "HAG",
+    "teamName": "Flying Boxcars",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5437,
+        "name": "North Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "auburn",
+    "id": 458,
+    "name": "Auburn Doubledays",
+    "abbreviation": "AUB",
+    "teamName": "Doubledays",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 229,
+        "name": "New York-Penn League Pinckney"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "id": 1994,
+    "name": "ACL Rockies",
+    "abbreviation": "A-RCK",
+    "teamName": "ACL Rockies",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 560,
+        "name": "Arizona Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "slug": "dayton",
+    "id": 459,
+    "name": "Dayton Dragons",
+    "abbreviation": "DAY",
+    "teamName": "Dragons",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "slug": "tri-city-dust-devils",
+    "id": 460,
+    "name": "Tri-City Dust Devils",
+    "abbreviation": "TRI",
+    "teamName": "Dust Devils",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Los Angeles Angels",
+    "parentOrgId": 108,
+    "active": true
+},
+{
+    "id": 6092,
+    "name": "Glacier Range Riders",
+    "abbreviation": "GRR",
+    "teamName": "Range Riders",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "division": {
+        "id": 235,
+        "name": "Pioneer League North"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "eugene",
+    "id": 461,
+    "name": "Eugene Emeralds",
+    "abbreviation": "EUG",
+    "teamName": "Emeralds",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "id": 6093,
+    "name": "Oakland Ballers",
+    "abbreviation": "OAK",
+    "teamName": "Ballers",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1997,
+    "name": "ACL White Sox",
+    "abbreviation": "A-WSX",
+    "teamName": "ACL White Sox",
+    "league": {
+        "id": 121,
+        "name": "Arizona Complex League"
+    },
+    "division": {
+        "id": 561,
+        "name": "Arizona Complex League West"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "slug": "vermont",
+    "id": 462,
+    "name": "Vermont Lake Monsters",
+    "abbreviation": "VER",
+    "teamName": "Lake Monsters",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 230,
+        "name": "New York-Penn League Stedler"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "id": 6094,
+    "name": "Yolo High Wheelers",
+    "abbreviation": "YO",
+    "teamName": "High Wheelers",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 1998,
+    "name": "FCL Astros",
+    "abbreviation": "F-AST",
+    "teamName": "FCL Astros",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 216,
+        "name": "Florida Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "slug": "new-hampshire",
+    "id": 463,
+    "name": "New Hampshire Fisher Cats",
+    "abbreviation": "NH",
+    "teamName": "Fisher Cats",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Toronto Blue Jays",
+    "parentOrgId": 141,
+    "active": true
+},
+{
+    "id": 464,
+    "name": "FCL Braves",
+    "abbreviation": "F-BRV",
+    "teamName": "FCL Braves",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "id": 466,
+    "name": "FCL Nationals",
+    "abbreviation": "F-NAT",
+    "teamName": "FCL Nationals",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 216,
+        "name": "Florida Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Washington Nationals",
+    "parentOrgId": 120,
+    "active": true
+},
+{
+    "id": 2003,
+    "name": "FCL Rays",
+    "abbreviation": "F-RAY",
+    "teamName": "FCL Rays",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "id": 467,
+    "name": "FCL Marlins",
+    "abbreviation": "F-MRL",
+    "teamName": "FCL Marlins",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 216,
+        "name": "Florida Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "id": 468,
+    "name": "FCL Mets",
+    "abbreviation": "F-MET",
+    "teamName": "FCL Mets",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 216,
+        "name": "Florida Complex League East"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "id": 469,
+    "name": "FCL Phillies",
+    "abbreviation": "F-PHI",
+    "teamName": "FCL Phillies",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 217,
+        "name": "Florida Complex League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "id": 470,
+    "name": "FCL Pirates",
+    "abbreviation": "F-PIR",
+    "teamName": "FCL Pirates",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 471,
+    "name": "FCL Red Sox",
+    "abbreviation": "F-RSX",
+    "teamName": "FCL Red Sox",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Boston Red Sox",
+    "parentOrgId": 111,
+    "active": true
+},
+{
+    "id": 473,
+    "name": "FCL Tigers",
+    "abbreviation": "F-TIG",
+    "teamName": "FCL Tigers",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 217,
+        "name": "Florida Complex League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Detroit Tigers",
+    "parentOrgId": 116,
+    "active": true
+},
+{
+    "id": 474,
+    "name": "FCL Twins",
+    "abbreviation": "F-TWI",
+    "teamName": "FCL Twins",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 218,
+        "name": "Florida Complex League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "id": 475,
+    "name": "FCL Yankees",
+    "abbreviation": "F-YAN",
+    "teamName": "FCL Yankees",
+    "league": {
+        "id": 124,
+        "name": "Florida Complex League"
+    },
+    "division": {
+        "id": 217,
+        "name": "Florida Complex League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Yankees",
+    "parentOrgId": 147,
+    "active": true
+},
+{
+    "slug": "san-jose",
+    "id": 476,
+    "name": "San Jose Giants",
+    "abbreviation": "SJ",
+    "teamName": "Giants",
+    "league": {
+        "id": 110,
+        "name": "California League"
+    },
+    "division": {
+        "id": 208,
+        "name": "California League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Francisco Giants",
+    "parentOrgId": 137,
+    "active": true
+},
+{
+    "slug": "greensboro",
+    "id": 477,
+    "name": "Greensboro Grasshoppers",
+    "abbreviation": "GBO",
+    "teamName": "Grasshoppers",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 5085,
+    "name": "DSL Phillies White",
+    "abbreviation": "D-PHW",
+    "teamName": "DSL Phillies White",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 248,
+        "name": "Dominican Summer League South"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Philadelphia Phillies",
+    "parentOrgId": 143,
+    "active": true
+},
+{
+    "slug": "augusta",
+    "id": 478,
+    "name": "Augusta GreenJackets",
+    "abbreviation": "AUG",
+    "teamName": "GreenJackets",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Atlanta Braves",
+    "parentOrgId": 144,
+    "active": true
+},
+{
+    "id": 5086,
+    "name": "DSL Tampa Bay",
+    "abbreviation": "D-TAM",
+    "teamName": "DSL Tampa Bay",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 247,
+        "name": "Dominican Summer League North"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Tampa Bay Rays",
+    "parentOrgId": 139,
+    "active": true
+},
+{
+    "slug": "jupiter",
+    "id": 479,
+    "name": "Jupiter Hammerheads",
+    "abbreviation": "JUP",
+    "teamName": "Hammerheads",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 214,
+        "name": "Florida State League East"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+},
+{
+    "id": 5087,
+    "name": "DSL Arizona Red",
+    "abbreviation": "D-ARR",
+    "teamName": "DSL Arizona Red",
+    "league": {
+        "id": 130,
+        "name": "Dominican Summer League"
+    },
+    "division": {
+        "id": 246,
+        "name": "Dominican Summer League Central"
+    },
+    "sport": {
+        "id": 16,
+        "name": "Rookie"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Arizona Diamondbacks",
+    "parentOrgId": 109,
+    "active": true
+},
+{
+    "slug": "boise",
+    "id": 480,
+    "name": "Boise Hawks",
+    "abbreviation": "BOI",
+    "teamName": "Hawks",
+    "league": {
+        "id": 128,
+        "name": "Pioneer League"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 4064,
+    "name": "Adelaide Giants",
+    "abbreviation": "ADE",
+    "teamName": "Giants",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "lynchburg",
+    "id": 481,
+    "name": "Lynchburg Hillcats",
+    "abbreviation": "LYN",
+    "teamName": "Hillcats",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cleveland Guardians",
+    "parentOrgId": 114,
+    "active": true
+},
+{
+    "id": 4065,
+    "name": "Brisbane Bandits",
+    "abbreviation": "BRI",
+    "teamName": "Bandits",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "corpus-christi",
+    "id": 482,
+    "name": "Corpus Christi Hooks",
+    "abbreviation": "CC",
+    "teamName": "Hooks",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 242,
+        "name": "Texas League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Houston Astros",
+    "parentOrgId": 117,
+    "active": true
+},
+{
+    "id": 4066,
+    "name": "Canberra Cavalry",
+    "abbreviation": "CAN",
+    "teamName": "Cavalry",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "id": 4067,
+    "name": "Melbourne Aces",
+    "abbreviation": "MEL",
+    "teamName": "Aces",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "indianapolis",
+    "id": 484,
+    "name": "Indianapolis Indians",
+    "abbreviation": "IND",
+    "teamName": "Indians",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 221,
+        "name": "International League West"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Pittsburgh Pirates",
+    "parentOrgId": 134,
+    "active": true
+},
+{
+    "id": 4068,
+    "name": "Perth Heat",
+    "abbreviation": "PER",
+    "teamName": "Heat",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "down-east",
+    "id": 485,
+    "name": "Down East Wood Ducks",
+    "abbreviation": "DE",
+    "teamName": "Wood Ducks",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 210,
+        "name": "Carolina League North"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Texas Rangers",
+    "parentOrgId": 140,
+    "active": true
+},
+{
+    "id": 4069,
+    "name": "Sydney Blue Sox",
+    "abbreviation": "SYD",
+    "teamName": "Blue Sox",
+    "league": {
+        "id": 595,
+        "name": "Australian Baseball League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "spokane",
+    "id": 486,
+    "name": "Spokane Indians",
+    "abbreviation": "SPO",
+    "teamName": "Indians",
+    "league": {
+        "id": 126,
+        "name": "Northwest League"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Colorado Rockies",
+    "parentOrgId": 115,
+    "active": true
+},
+{
+    "slug": "kannapolis",
+    "id": 487,
+    "name": "Kannapolis Cannon Ballers",
+    "abbreviation": "KAN",
+    "teamName": "Cannon Ballers",
+    "league": {
+        "id": 122,
+        "name": "Carolina League"
+    },
+    "division": {
+        "id": 211,
+        "name": "Carolina League South"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "slug": "aberdeen",
+    "id": 488,
+    "name": "Aberdeen IronBirds",
+    "abbreviation": "ABD",
+    "teamName": "IronBirds",
+    "league": {
+        "id": 116,
+        "name": "South Atlantic League"
+    },
+    "division": {
+        "id": 237,
+        "name": "South Atlantic League North"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Baltimore Orioles",
+    "parentOrgId": 110,
+    "active": true
+},
+{
+    "id": 490,
+    "name": "Peoria Javelinas",
+    "abbreviation": "PEJ",
+    "teamName": "Javelinas",
+    "league": {
+        "id": 119,
+        "name": "Arizona Fall League"
+    },
+    "sport": {
+        "id": 17,
+        "name": "Winter Leagues"
+    },
+    "record": {
+        "clinched": true
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "cedar-rapids",
+    "id": 492,
+    "name": "Cedar Rapids Kernels",
+    "abbreviation": "CR",
+    "teamName": "Kernels",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 225,
+        "name": "Midwest League West"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "slug": "charlotte-knights",
+    "id": 494,
+    "name": "Charlotte Knights",
+    "abbreviation": "CLT",
+    "teamName": "Knights",
+    "league": {
+        "id": 117,
+        "name": "International League"
+    },
+    "division": {
+        "id": 219,
+        "name": "International League East"
+    },
+    "sport": {
+        "id": 11,
+        "name": "Triple-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Chicago White Sox",
+    "parentOrgId": 145,
+    "active": true
+},
+{
+    "slug": "lexington",
+    "id": 495,
+    "name": "Lexington Legends",
+    "abbreviation": "LEX",
+    "teamName": "Legends",
+    "league": {
+        "id": 436,
+        "name": "Atlantic League"
+    },
+    "division": {
+        "id": 5436,
+        "name": "South Division"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "yucatan",
+    "id": 496,
+    "name": "Leones de Yucatan",
+    "abbreviation": "YUC",
+    "teamName": "Leones",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 223,
+        "name": "Mexican League Sur"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "chattanooga",
+    "id": 498,
+    "name": "Chattanooga Lookouts",
+    "abbreviation": "CHA",
+    "teamName": "Lookouts",
+    "league": {
+        "id": 111,
+        "name": "Southern League"
+    },
+    "division": {
+        "id": 239,
+        "name": "Southern League North"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Cincinnati Reds",
+    "parentOrgId": 113,
+    "active": true
+},
+{
+    "slug": "lansing",
+    "id": 499,
+    "name": "Lansing Lugnuts",
+    "abbreviation": "LAN",
+    "teamName": "Lugnuts",
+    "league": {
+        "id": 118,
+        "name": "Midwest League"
+    },
+    "division": {
+        "id": 224,
+        "name": "Midwest League East"
+    },
+    "sport": {
+        "id": 13,
+        "name": "High-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Oakland Athletics",
+    "parentOrgId": 133,
+    "active": true
+},
+{
+    "slug": "saltillo",
+    "id": 502,
+    "name": "Saraperos de Saltillo",
+    "abbreviation": "SLT",
+    "teamName": "Saraperos",
+    "league": {
+        "id": 125,
+        "name": "Mexican League"
+    },
+    "division": {
+        "id": 222,
+        "name": "Mexican League Norte"
+    },
+    "sport": {
+        "id": 23,
+        "name": "Independent Leagues"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Office of the Commissioner",
+    "parentOrgId": 11,
+    "active": true
+},
+{
+    "slug": "binghamton",
+    "id": 505,
+    "name": "Binghamton Rumble Ponies",
+    "abbreviation": "BNG",
+    "teamName": "Rumble Ponies",
+    "league": {
+        "id": 113,
+        "name": "Eastern League"
+    },
+    "division": {
+        "id": 212,
+        "name": "Eastern League Northeast"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "slug": "st-lucie",
+    "id": 507,
+    "name": "St. Lucie Mets",
+    "abbreviation": "SLU",
+    "teamName": "Mets",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 214,
+        "name": "Florida State League East"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "New York Mets",
+    "parentOrgId": 121,
+    "active": true
+},
+{
+    "slug": "fort-myers",
+    "id": 509,
+    "name": "Fort Myers Mighty Mussels",
+    "abbreviation": "FTM",
+    "teamName": "Mighty Mussels",
+    "league": {
+        "id": 123,
+        "name": "Florida State League"
+    },
+    "division": {
+        "id": 215,
+        "name": "Florida State League West"
+    },
+    "sport": {
+        "id": 14,
+        "name": "Single-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "Minnesota Twins",
+    "parentOrgId": 142,
+    "active": true
+},
+{
+    "slug": "san-antonio",
+    "id": 510,
+    "name": "San Antonio Missions",
+    "abbreviation": "SA",
+    "teamName": "Missions",
+    "league": {
+        "id": 109,
+        "name": "Texas League"
+    },
+    "division": {
+        "id": 242,
+        "name": "Texas League South"
+    },
+    "sport": {
+        "id": 12,
+        "name": "Double-A"
+    },
+    "record": {
+        "clinched": false
+    },
+    "parentOrgName": "San Diego Padres",
+    "parentOrgId": 135,
+    "active": true
+},
+{
+    "slug": "batavia",
+    "id": 511,
+    "name": "Batavia Muckdogs",
+    "abbreviation": "BAT",
+    "teamName": "Muckdogs",
+    "league": {
+        "id": 127,
+        "name": "New York-Penn League"
+    },
+    "division": {
+        "id": 229,
+        "name": "New York-Penn League Pinckney"
+    },
+    "sport": {
+        "id": 15,
+        "name": "Class A Short Season"
+    },
+    "parentOrgName": "Miami Marlins",
+    "parentOrgId": 146,
+    "active": true
+}]
